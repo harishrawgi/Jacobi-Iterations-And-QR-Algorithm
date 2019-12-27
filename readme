@@ -1,0 +1,18 @@
+--------------------------------------------------Jacobi Iterations and QR Algorithm----------------------------------------------------------------------------
+
+Developed by: Hari Shrawgi
+
+Language: MATLAB
+
+--------------------------------------------------Jacobi Iterations and QR Algorithm----------------------------------------------------------------------------
+
+The various scripts implement Jacobi Iterations and QR Algorithm.
+
+Following are descriptions of the various scripts:
+
+1. gs.m: Finds QR decomposition using Gram-Schmidt method.
+2. mgs.m: Finds QR decomposition using modified Gram-Schmidt method.
+3. QRapp1.m: Finds eigenvalues and eigenvectors using QR algorithm, can use either gs or mgs depending on the input.
+4. jacobi.m: Solves a linear system of equations using Jacobi iteration method.
+
+-----------------------------------------x-------------------------------------x----------------------------------x----------------------------------
